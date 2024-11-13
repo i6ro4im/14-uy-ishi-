@@ -1,0 +1,36 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+.tnt{background-color:  #311313;
+color: aliceblue;
+width: 836px;
+margin-top: 22px;
+margin-left: 381px;
+padding-top: 22px;
+padding-left: 28px;
+padding-right: 17px;
+padding-bottom: 23px;
+font-size: 64px;
+line-height: 77.45px;
+font-weight: 700;}
+
+
+.tt{
+background-color: aqua;
+width: 483px;
+margin-left: 333px;
+}
+
+.uuu{background-color: black;}
+div{
+    background-color: black;
+   border: 9px solid red;
+   padding-top: 22px;
+padding-left: 28px;
+padding-right: 17px;
+padding-bottom: 23px;
+margin-left: 95px;
+margin-right: 95px;
+}
